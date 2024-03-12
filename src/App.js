@@ -1,5 +1,6 @@
 import "./App.css";
 import Dictionary from "./Dictionary";
+import Results from "./Results";
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
         <header className="App-header"></header>
         <main>
           <Dictionary />
+          <Results />
         </main>
 
         <footer className="app-footer">
