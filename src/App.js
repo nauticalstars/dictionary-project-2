@@ -8,6 +8,7 @@ export default function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
+          <h1 className="text-center">My Dictionary Search</h1>
           <Dictionary />
           <Results />
         </main>
