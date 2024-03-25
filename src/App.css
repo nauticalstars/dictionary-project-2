@@ -2,7 +2,10 @@ body {
   padding: 10px;
   background: linear-gradient(90deg, #b9deed, #efefef);
 }
-
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .app-footer {
   text-align: center;
   margin: 30px 0;
